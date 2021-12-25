@@ -77,7 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 **Default Output :-**
 
 ![d1](https://user-images.githubusercontent.com/92079968/147382586-23f9a8bb-5d43-4e0c-9844-7ef022862401.PNG)
-![d1](https://user-images.githubusercontent.com/92079968/147382589-1fc2d8e3-9399-4538-a33f-9c55b2310b66.PNG)
+![d2](https://user-images.githubusercontent.com/92079968/147382704-b893c29a-5052-4149-be8f-602105713832.PNG)
 
 
 **Searched 6 Images of Shoes Output :-**
