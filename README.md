@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+**OUTPUT :-**
+
+
+**Default Output :-**
+
+![d1](https://user-images.githubusercontent.com/92079968/147382586-23f9a8bb-5d43-4e0c-9844-7ef022862401.PNG)
+![d1](https://user-images.githubusercontent.com/92079968/147382589-1fc2d8e3-9399-4538-a33f-9c55b2310b66.PNG)
+
+
+**Searched 6 Images of Shoes Output :-**
+
+![s1](https://user-images.githubusercontent.com/92079968/147382620-b699e45c-21d8-4679-9840-f9e790c4b836.PNG)
+![s2](https://user-images.githubusercontent.com/92079968/147382622-9474c2bb-f6f4-46e0-a92d-f8e0fc318c20.PNG)
+
+
+**Searched 12 Images of Cars Output :-**
+
+![c1](https://user-images.githubusercontent.com/92079968/147382637-d8ac6da4-7fca-4988-8b5c-e0e8db6d9e3a.PNG)
+![c2](https://user-images.githubusercontent.com/92079968/147382649-3c26af6b-79a0-4c01-9bee-b68f7ce21d51.PNG)
+
+
+**Alert Message Output :-**
+
+![m1](https://user-images.githubusercontent.com/92079968/147382673-b37c1d06-5f9a-4ceb-9596-03c1a0fc6038.PNG)
